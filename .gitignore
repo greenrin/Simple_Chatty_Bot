@@ -1,0 +1,61 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Simple Chatty Bot/task/out/test/classes/
+/Topics/Conditional statement/Check a number is positive/out/
+/Topics/Conditional statement/Check a number is positive/out/production/classes/
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Chocolate/out/production/classes/
+/Topics/Conditional statement/Queens/out/
+/Topics/Conditional statement/Queens/out/production/classes/
+/Topics/Conditional statement/Theory/out/
+/Topics/Conditional statement/Theory/out/production/classes/
+/Topics/Conditional statement/Triangle/out/
+/Topics/Conditional statement/Triangle/out/production/classes/
+/Topics/Introduction to Java/Theory/build/
+/Topics/Introduction to Java/Theory/out/
+/Topics/Introduction to Java/Theory/out/production/classes/
+/Topics/Overview of the basic program/Cats are robots/out/
+/Topics/Overview of the basic program/Cats are robots/out/production/classes/
+/Topics/Overview of the basic program/The Hello World program/out/
+/Topics/Overview of the basic program/The Hello World program/out/production/classes/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Overview of the basic program/Theory/out/production/classes/
+/Topics/Printing data/Digits from 0 to 9 in a single line/out/
+/Topics/Printing data/Digits from 0 to 9 in a single line/out/production/classes/
+/Topics/Printing data/First, second, third/out/
+/Topics/Printing data/First, second, third/out/production/classes/
+/Topics/Printing data/From 0 to 4/out/
+/Topics/Printing data/From 0 to 4/out/production/classes/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/Printing data/The result of a Tic-Tac-Toe game/out/
+/Topics/Printing data/The result of a Tic-Tac-Toe game/out/production/classes/
+/Topics/Printing data/Theory/out/
+/Topics/Printing data/Theory/out/production/classes/
+/Topics/Printing data/We need to learn Java/out/
+/Topics/Printing data/We need to learn Java/out/production/classes/
+/Topics/Relational operators/Boys in a sport class/out/
+/Topics/Relational operators/Boys in a sport class/out/production/classes/
+/Topics/Relational operators/Check the given numbers are different/out/
+/Topics/Relational operators/Check the given numbers are different/out/production/classes/
+/Topics/Relational operators/Check the sum/out/
+/Topics/Relational operators/Check the sum/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
+/Topics/Relational operators/Groundhogs at a party/out/
+/Topics/Relational operators/Groundhogs at a party/out/production/classes/
+/Topics/Relational operators/Theory/out/
+/Topics/Relational operators/Theory/out/production/classes/
+/Topics/The for-loop/Grades/out/
+/Topics/The for-loop/Grades/out/production/classes/
+/Topics/The for-loop/Size of parts/out/
+/Topics/The for-loop/Size of parts/out/production/classes/
+/Topics/The for-loop/The product of numbers from a to b/out/
+/Topics/The for-loop/The product of numbers from a to b/out/production/classes/
+/Topics/The for-loop/The roots of an equation/out/
+/Topics/The for-loop/The roots of an equation/out/production/classes/
+/Topics/The for-loop/Theory/out/
+/Topics/The for-loop/Theory/out/production/classes/
